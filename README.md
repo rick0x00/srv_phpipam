@@ -1,6 +1,6 @@
 # phpIPAM Server
 
-Tool to simplify intalation of phpIPAM Server
+Tool to simplify installation of phpIPAM Server
 
 Execution command
 
